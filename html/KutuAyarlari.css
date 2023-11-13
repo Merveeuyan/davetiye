@@ -1,0 +1,78 @@
+body{
+    background-image: url(resimler/arkaplan.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family:"cursive";
+    font-size: 100px;
+    color:palevioletred;
+    font-style: italic;
+    text-align: center;
+    }
+.box{
+    width: 320px;
+    height: 300px;
+    margin: 80px;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: black;
+    line-height: 300px;
+   box-shadow: darkmagenta 5px 5px 5px;
+
+}
+
+#first{
+    float: left;
+    background-image:url(resimler/balon.jpg);
+    background-size: cover;
+}
+#second{
+    float: left;
+    background-image: url(resimler/dugun.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+     
+}
+#third{
+    float: left;
+    background-image: url(resimler/hamile.jfif);
+    background-size: cover;
+}
+#fourth{
+    float: left;
+    background-image: url(resimler/gender.jfif);
+    background-size: cover;
+}
+#fifth{
+    float: left;
+    background-image: url(resimler/mezun.jfif);
+    background-size: cover;
+}
+#sixth{
+    float: left;
+    background-image: url(resimler/yüzük.jfif);
+    background-size: cover;
+
+}
+form.search button{
+    font-style: italic;
+    background-color: palevioletred;
+    color: rgb(217, 20, 86);
+}
+form{
+    color: palevioletred;
+    font-style: italic;
+    text-align: center;
+ 
+}
+img{
+    margin: 30px;
+}
+a{
+    color: palevioletred;
+    text-align: center;
+}
